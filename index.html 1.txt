@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>EliteGraphix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>EliteGraphix</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Welcome to EliteGraphix</h2>
+            <p>Your one-stop solution for top-quality graphic design and digital services.</p>
+        </section>
+
+        <section class="about">
+            <h3>Who We Are</h3>
+            <p>EliteGraphix is a creative digital studio that brings your ideas to life through innovative design and branding. From logos to websites, we make your vision stand out.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 EliteGraphix | All Rights Reserved</p>
+    </footer>
+</body>
+</html>

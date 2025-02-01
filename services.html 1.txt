@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Our Services - EliteGraphix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>EliteGraphix</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="services-list">
+            <h2>Our Services</h2>
+            <ul>
+                <li><strong>Logo Design</strong> - Unique and professional logos tailored to your brand.</li>
+                <li><strong>Web Design</strong> - Modern, responsive websites for businesses and portfolios.</li>
+                <li><strong>Social Media Graphics</strong> - Stunning graphics for your social media presence.</li>
+                <li><strong>Branding</strong> - Build your brand with custom designs that resonate with your audience.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 EliteGraphix | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
